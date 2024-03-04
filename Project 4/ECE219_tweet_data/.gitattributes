@@ -1,0 +1,6 @@
+tweets_\#gohawks.txt filter=lfs diff=lfs merge=lfs -text
+tweets_\#gopatriots.txt filter=lfs diff=lfs merge=lfs -text
+tweets_\#nfl.txt filter=lfs diff=lfs merge=lfs -text
+tweets_\#patriots.txt filter=lfs diff=lfs merge=lfs -text
+tweets_\#sb49.txt filter=lfs diff=lfs merge=lfs -text
+tweets_\#superbowl.txt filter=lfs diff=lfs merge=lfs -text
